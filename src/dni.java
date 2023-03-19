@@ -21,6 +21,7 @@ public class dni{
         char letras = obtenerLetraAleatoria(dni);
         System.out.println("Tu dni es "+ dni +letras);
         System.out.println("ESTE ES TU NUMERO DE DNI ALEATORIO");
+        System.out.println("esta es una nueva modificacion");
 
 
 
