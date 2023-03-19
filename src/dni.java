@@ -17,11 +17,12 @@ public class dni{
     public static void main(String[] args){
         System.out.println("Este algoritmo calcula la letra del DNI");
         System.out.println("Introduce tu dni");
+        System.out.println("Introduce tu dni que contenga 4 nuemeros");
        int dni = sc.nextInt();
         char letras = obtenerLetraAleatoria(dni);
         System.out.println("Tu dni es "+ dni +letras);
         System.out.println("ESTE ES TU NUMERO DE DNI ALEATORIO");
-        System.out.println("esta es una nueva modificacion para nueva version");
+        
 
 
 
